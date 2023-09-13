@@ -15,7 +15,7 @@
 
 ### Languages and Tools 🛠 : 
 
-![Flutter](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Flutter](https://img.shields.io/badge/-Flutter-%231572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -59,9 +59,11 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01005074554)
 <a href="mailto:AmrSaaayed74@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
+<!-- ### Stats
+
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-<!-- ### Stats
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
