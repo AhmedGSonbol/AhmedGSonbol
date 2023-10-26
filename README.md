@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Ahmed Sonbol from Egypt. I'm a Flutter Developre Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior mobile developer and learning increasingly. </h4>
+<h4> I'm Ahmed Sonbol from Egypt. I'm a Flutter Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior mobile developer and learning increasingly. </h4>
 
 
 	
